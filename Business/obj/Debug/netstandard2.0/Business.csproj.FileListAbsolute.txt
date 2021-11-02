@@ -1,0 +1,27 @@
+C:\Users\iangy\OneDrive\Bureaublad\GIP\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\iangy\OneDrive\Bureaublad\GIP\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\iangy\OneDrive\Bureaublad\GIP\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\iangy\OneDrive\Bureaublad\GIP\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\iangy\OneDrive\Bureaublad\GIP\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\iangy\OneDrive\Bureaublad\GIP\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\iangy\OneDrive\Bureaublad\GIP\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\iangy\OneDrive\Bureaublad\GIP\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\iangy\OneDrive\Bureaublad\GIP\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\ian.gyssels.HFI\Desktop\GIP\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\ian.gyssels.HFI\Desktop\GIP\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\ian.gyssels.HFI\Desktop\GIP\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\ian.gyssels.HFI\Desktop\GIP\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\ian.gyssels.HFI\Desktop\GIP\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\ian.gyssels.HFI\Desktop\GIP\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\ian.gyssels.HFI\Desktop\GIP\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\ian.gyssels.HFI\Desktop\GIP\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\ian.gyssels.HFI\Desktop\GIP\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\Ian G\Desktop\GIP\GIP\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\Ian G\Desktop\GIP\GIP\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\Ian G\Desktop\GIP\GIP\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\Ian G\Desktop\GIP\GIP\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\Ian G\Desktop\GIP\GIP\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Ian G\Desktop\GIP\GIP\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Ian G\Desktop\GIP\GIP\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Ian G\Desktop\GIP\GIP\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Ian G\Desktop\GIP\GIP\Business\obj\Debug\netstandard2.0\Business.pdb
